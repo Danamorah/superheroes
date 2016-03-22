@@ -4,4 +4,6 @@ class PagesController < ApplicationController
   protect_from_forgery with: :exception
   def batman
   end
+  def superman
+  end	
 end
